@@ -1,0 +1,4 @@
+venv
+*.pkg
+*.pyz
+*.pyc
